@@ -1,0 +1,3 @@
+{"id": "qa-refund-window", "category": "qa", "prompt": "How long is the refund window?", "expect_keywords": ["30 days", "refund"], "forbid_keywords": ["60 days", "90 days", "no refunds"]}
+{"id": "qa-password-reset", "category": "qa", "prompt": "How do I reset my password?", "expect_keywords": ["Settings", "Security", "reset link"], "forbid_keywords": ["call support to reset"]}
+{"id": "qa-data-region", "category": "qa", "prompt": "Where is my customer data stored?", "expect_keywords": ["EU", "Frankfurt"], "forbid_keywords": ["United States", "us-east", "California"]}
